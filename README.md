@@ -6,6 +6,7 @@
 
 - <a href="https://github.com/R-dilorenzo/Riconoscimento_emozioni_Pepper">Riconoscimento di emozioni Pepper</a> <br/>
 - <a href="https://github.com/R-dilorenzo/ProgettoTSW_GetMovie">ProgettoTSW_GetMovie</a> <br/>
+- <a style="text-align center;" href="https://github.com/R-dilorenzo/get_movie-react">GetMovie-React</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/Amazon-React">Amazon-React</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/rui">ProgettoIS_RUI</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/Java">Workspace Java</a> <br/>
