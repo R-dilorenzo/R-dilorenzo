@@ -73,13 +73,44 @@ Il sito permette di:
 - Aggiungere al carrello i prodotti
 </td>
 <td valign="top" width="33%"> 
-progetto corso TSW
+Progetto corso TSW
 
 Il progetto richiede lo sviluppo di un sito di e-commerce.
 
 Sono stati utilizzati per:
 - Frontend: HTML5, JavaScript e CSS con framework Bootstrap
 - Backend: Java con il database MySQL
+</td>
+  </tr>
+    <!-- seconda riga -->
+  <tr>
+  <th width="33%" padding="10px"> 
+      <a href="https://github.com/R-dilorenzo/get_movie-react">GetMovie-React</a> 
+   </th>
+  <th width=33%" >  
+  </th>
+  <th width="33%">
+  </th>
+  </tr>
+  <tr>
+  <td width="33%">  <img  alt="getMovie_react" src="https://github.com/R-dilorenzo/R-dilorenzo/blob/master/CoverReact.png" />    </td>
+  <td width="33%">   </td>
+  <td width="33%">   </td>
+  </tr>
+                   <tr  style="height:400px">
+<td valign="top" width="33%"> 
+
+Progetto per database di Film e Serie Tv ricreando lo stile e funzionalità di [ProgettoTSW_GetMovie](https://github.com/R-dilorenzo/ProgettoTSW_GetMovie)
+
+Il sito utilizza TMDB API per recuperare le informazioni sui film 
+
+Il progetto utilizza React e i componenti React Router, React Context API, React-youtube, Material-UI, Axios
+</td>
+<td valign="top" width="33%"> 
+
+</td>
+<td valign="top" width="33%"> 
+
 </td>
   </tr>
 </table>
