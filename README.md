@@ -6,7 +6,7 @@
 
 - <a href="https://github.com/R-dilorenzo/Riconoscimento_emozioni_Pepper">Riconoscimento di emozioni Pepper</a> <br/>
 - <a href="https://github.com/R-dilorenzo/ProgettoTSW_GetMovie">ProgettoTSW_GetMovie</a> <br/>
-- <a style="text-align center;" href="https://github.com/R-dilorenzo/get_movie-react">GetMovie-React</a> <br/>
+- <a style="text-align center;" href="https://github.com/R-dilorenzo/get_movie-redux">GetMovie-Redux</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/amazon-redux">Amazon-Redux</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/Amazon-React">Amazon-React</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/rui">ProgettoIS_RUI</a> <br/>
@@ -88,7 +88,7 @@ Sono stati utilizzati per:
     <!-- seconda riga -->
   <tr>
   <th width="33%" padding="10px"> 
-      <a href="https://github.com/R-dilorenzo/get_movie-react">GetMovie-React</a> 
+      <a href="https://github.com/R-dilorenzo/get_movie-redux">GetMovie-React</a> 
    </th>
   <th width=33%" >  
   </th>
@@ -96,7 +96,7 @@ Sono stati utilizzati per:
   </th>
   </tr>
   <tr>
-  <td width="33%">  <img  alt="getMovie_react" src="https://github.com/R-dilorenzo/R-dilorenzo/blob/master/CoverReact.png" />    </td>
+  <td width="33%">  <img  alt="getMovie_redux" src="https://github.com/R-dilorenzo/R-dilorenzo/blob/master/CoverReact.png" />    </td>
   <td width="33%">   </td>
   <td width="33%">   </td>
   </tr>
@@ -107,7 +107,7 @@ Progetto per database di Film e Serie Tv ricreando lo stile e funzionalità di [
 
 Il sito utilizza TMDB API per recuperare le informazioni sui film 
 
-Il progetto utilizza React e i componenti React Router, React Context API, React-youtube, Material-UI, Axios
+Il progetto utilizza React, Redux come data layer, Styled Component e i componenti React Router, React-youtube, Material-UI, Axios e GSAP
 </td>
 <td valign="top" width="33%"> 
 
