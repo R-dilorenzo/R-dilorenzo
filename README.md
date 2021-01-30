@@ -91,13 +91,14 @@ Sono stati utilizzati per:
       <a href="https://github.com/R-dilorenzo/get_movie-redux">GetMovie-React</a> 
    </th>
   <th width=33%" >  
+                <a href="https://github.com/R-dilorenzo/MERN_chat_app">Chat_app-MERN</a>
   </th>
   <th width="33%">
   </th>
   </tr>
   <tr>
   <td width="33%">  <img  alt="getMovie_redux" src="https://github.com/R-dilorenzo/R-dilorenzo/blob/master/CoverReact.png" />    </td>
-  <td width="33%">   </td>
+  <td width="33%">  <img  alt="Square chat" src="https://github.com/R-dilorenzo/R-dilorenzo/blob/master/CoverSquareChat.png" /> </td>
   <td width="33%">   </td>
   </tr>
                    <tr  style="height:400px">
@@ -111,6 +112,9 @@ Il progetto utilizza React, Redux come data layer, Styled Component e i componen
 </td>
 <td valign="top" width="33%"> 
 
+Il sito permette dopo essersi registrati a tutti gli utenti di poter creare chat e accedere anche a tutte le altre per lettura e scrittura.
+
+Il progetto è basato su stack MERN (Mongodb,Express.js,React,Node.js) ed utilizza Redux come data layer e Pusher che, quando viene modificata la collection, aggiorna i dati.
 </td>
 <td valign="top" width="33%"> 
 
