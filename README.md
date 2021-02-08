@@ -7,6 +7,7 @@
 - <a href="https://github.com/R-dilorenzo/Riconoscimento_emozioni_Pepper">Riconoscimento di emozioni Pepper</a> <br/>
 - <a href="https://github.com/R-dilorenzo/ProgettoTSW_GetMovie">ProgettoTSW_GetMovie</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/get_movie-redux">GetMovie-Redux</a> <br/>
+- <a style="text-align center;" href="https://github.com/R-dilorenzo/MERN_chat_app">Chat_app-MERN</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/amazon-redux">Amazon-Redux</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/Amazon-React">Amazon-React</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/rui">ProgettoIS_RUI</a> <br/>
