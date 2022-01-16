@@ -8,8 +8,8 @@
 - <a href="https://github.com/R-dilorenzo/ProgettoTSW_GetMovie">ProgettoTSW_GetMovie</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/get_movie-redux">GetMovie-Redux</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/MERN_chat_app">Chat_app-MERN</a> <br/>
+- <a style="text-align center;" href="https://github.com/R-dilorenzo/BookEdge">Book Edge - React Native</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/amazon-redux">Amazon-Redux</a> <br/>
-- <a style="text-align center;" href="https://github.com/R-dilorenzo/Amazon-React">Amazon-React</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/rui">ProgettoIS_RUI</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/Java">Workspace Java</a> <br/>
 - <a style="text-align center;" href="https://github.com/R-dilorenzo/Unity">Workspace Unity</a> <br/>
@@ -95,12 +95,13 @@ Sono stati utilizzati per:
                 <a href="https://github.com/R-dilorenzo/MERN_chat_app">Chat_app-MERN</a>
   </th>
   <th width="33%">
+     <a href="https://github.com/R-dilorenzo/BookEdge">Book Edge - React Native</a>
   </th>
   </tr>
   <tr>
   <td width="33%">  <img  alt="getMovie_redux" src="https://github.com/R-dilorenzo/R-dilorenzo/blob/master/CoverReact.png" />    </td>
   <td width="33%">  <img  alt="Square chat" src="https://github.com/R-dilorenzo/R-dilorenzo/blob/master/CoverSquareChat.png" /> </td>
-  <td width="33%">   </td>
+  <td width="33%">  <img  alt="Book Edge" src="https://github.com/R-dilorenzo/R-dilorenzo/blob/master/Cover/Cover_BookEdge.png" />  </td>
   </tr>
                    <tr  style="height:400px">
 <td valign="top" width="33%"> 
@@ -118,7 +119,7 @@ Il sito permette dopo essersi registrati a tutti gli utenti di poter creare chat
 Il progetto è basato su stack MERN (Mongodb,Express.js,React,Node.js) ed utilizza Redux come data layer e Pusher che, quando viene modificata la collection, aggiorna i dati.
 </td>
 <td valign="top" width="33%"> 
-
+Il progetto sviluppato in React Native, permette di ricercare attraverso un API (OpenLibrary) le informazioni relative ad uno specifico libro o di esplorare vari generi letterari. Inoltre è possibile, nella sezione profilo, memorizzare i libri preferiti.
 </td>
   </tr>
 </table>
